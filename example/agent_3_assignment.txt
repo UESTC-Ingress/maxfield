@@ -1,0 +1,64 @@
+Agent 3 Linking Assignment: links should be made in this order
+
+Link = the current link number
+Agent = the person making this link
+# = portal number on portal map
+Link Origin/Destination = portal name in portal file
+
+Link ; Agent ;   # ; Link Origin
+                 # ; Link Destination
+
+   3 ;     3 ;  17 ; Watering Fountains 
+             ;  11 : Massie Wills House 
+
+   4 ;     3 ;  17 ; Watering Fountains 
+             ;  16 : Early Hotels: Dining, Dancing, and the Mail 
+
+   5 ;     3 ;  17 ; Watering Fountains 
+             ;  15 : Albermarle County Courthouse 
+
+   7 ;     3 ;  17 ; Watering Fountains 
+             ;  13 : Historic Courthouse Square 
+
+   9 ;     3 ;  17 ; Watering Fountains 
+             ;   1 : Historic Jail House 
+
+  11 ;     3 ;  17 ; Watering Fountains 
+             ;  14 : Site of Old Swan Tavern 
+
+  16 ;     3 ;   3 ; Gen. Alexander Archer Vandergri 
+             ;   9 : Congregation Beth Israel 
+
+  19 ;     3 ;   6 ; Stonewall Jackson Statue 
+             ;   3 : Gen. Alexander Archer Vandergri 
+
+  21 ;     3 ;   6 ; Stonewall Jackson Statue 
+             ;   7 : Paul Goodloe McIntire 
+
+  26 ;     3 ;   7 ; Paul Goodloe McIntire 
+             ;   8 : The Original Site of First Baptist Church 1831 
+
+  30 ;     3 ;  11 ; Massie Wills House 
+             ;  10 : Catholic Church of the Holy Comforter 
+
+  32 ;     3 ;  11 ; Massie Wills House 
+             ;   8 : The Original Site of First Baptist Church 1831 
+
+  33 ;     3 ;  11 ; Massie Wills House 
+             ;   7 : Paul Goodloe McIntire 
+
+  34 ;     3 ;  11 ; Massie Wills House 
+             ;   1 : Historic Jail House 
+
+  35 ;     3 ;  11 ; Massie Wills House 
+             ;  15 : Albermarle County Courthouse 
+
+  36 ;     3 ;  11 ; Massie Wills House 
+             ;  16 : Early Hotels: Dining, Dancing, and the Mail 
+
+  37 ;     3 ;  11 ; Massie Wills House 
+             ;  12 : Merriwether Lewis Placard 
+
+  38 ;     3 ;  11 ; Massie Wills House 
+             ;   6 : Stonewall Jackson Statue 
+

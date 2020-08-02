@@ -1,0 +1,30 @@
+Ownership Preparation: sorted by portal number
+
+# = portal number on portal map
+Name = portal name in portal file
+
+These portals' first links are incoming. They should be at full resonators before linking.
+
+  # ; Name
+  1 ; Historic Jail House
+  2 ; Jefferson Quote
+  4 ; Jack Jouett's Ride
+  7 ; Paul Goodloe McIntire
+  8 ; The Original Site of First Baptist Church 1831
+  9 ; Congregation Beth Israel
+ 10 ; Catholic Church of the Holy Comforter
+ 11 ; Massie Wills House
+ 15 ; Albermarle County Courthouse
+ 16 ; Early Hotels: Dining, Dancing, and the Mail
+
+These portals' first links are outgoing. Their resonators can be applied when the first agent arrives.
+
+  # ; Name
+  0 ; The Kissing Stone
+  3 ; Gen. Alexander Archer Vandergri
+  5 ; Town Hall Levy Opera House
+  6 ; Stonewall Jackson Statue
+ 12 ; Merriwether Lewis Placard
+ 13 ; Historic Courthouse Square
+ 14 ; Site of Old Swan Tavern
+ 17 ; Watering Fountains

@@ -1,0 +1,49 @@
+Agent 2 Linking Assignment: links should be made in this order
+
+Link = the current link number
+Agent = the person making this link
+# = portal number on portal map
+Link Origin/Destination = portal name in portal file
+
+Link ; Agent ;   # ; Link Origin
+                 # ; Link Destination
+
+   2 ;     2 ;  14 ; Site of Old Swan Tavern 
+             ;   4 : Jack Jouett's Ride 
+
+   6 ;     2 ;   5 ; Town Hall Levy Opera House 
+             ;   4 : Jack Jouett's Ride 
+
+   8 ;     2 ;   5 ; Town Hall Levy Opera House 
+             ;  17 : Watering Fountains 
+
+  10 ;     2 ;   5 ; Town Hall Levy Opera House 
+             ;  14 : Site of Old Swan Tavern 
+
+  12 ;     2 ;   5 ; Town Hall Levy Opera House 
+             ;   1 : Historic Jail House 
+
+  14 ;     2 ;   1 ; Historic Jail House 
+             ;  13 : Historic Courthouse Square 
+
+  15 ;     2 ;   1 ; Historic Jail House 
+             ;  15 : Albermarle County Courthouse 
+
+  17 ;     2 ;   1 ; Historic Jail House 
+             ;   2 : Jefferson Quote 
+
+  18 ;     2 ;   1 ; Historic Jail House 
+             ;   9 : Congregation Beth Israel 
+
+  20 ;     2 ;   1 ; Historic Jail House 
+             ;   3 : Gen. Alexander Archer Vandergri 
+
+  22 ;     2 ;   1 ; Historic Jail House 
+             ;   6 : Stonewall Jackson Statue 
+
+  24 ;     2 ;   1 ; Historic Jail House 
+             ;  14 : Site of Old Swan Tavern 
+
+  27 ;     2 ;   1 ; Historic Jail House 
+             ;   4 : Jack Jouett's Ride 
+
